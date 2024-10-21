@@ -36,7 +36,7 @@
     </td>
     <td>
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/c51415070942.png" alt="vscode" width="40" height="40"/></a>
-      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/f88267696292.png" alt="Android Studio" width="40" height="40"/></a>   
+<!--       <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://beeimg.com/images/f88267696292.png" alt="Android Studio" width="40" height="40"/></a>    -->
     </td>
   </tr>
 </table>
