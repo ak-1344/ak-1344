@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Ak</h1>
-<h3 align="center">Developer | Explorer | Learner</h3>
+<h3 align="center">Developer | Systems | Automation</h3>
 
 
 ## 📌 About Me
