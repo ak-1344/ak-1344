@@ -32,10 +32,6 @@
   <a href="https://github.com/ak-1344">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ak-1344&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="ak-1344's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=ak-1344&theme=github_dark&hide_border=true&cache_seconds=86400" alt="ak-1344's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=ak-1344&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ak's GitHub Trophies" />
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ak-1344&theme=github_dark&radius=10" alt="ak-1344's Activity Graph" />
